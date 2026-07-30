@@ -168,15 +168,6 @@ The interactive dashboard includes:
 
 ---
 
-# 📷 Dashboard Preview
-
-> *(Insert your Power BI dashboard screenshot here.)*
-
-```
-images/dashboard.png
-```
-
----
 
 # 📁 Project Structure
 
